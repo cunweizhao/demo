@@ -1,5 +1,5 @@
 # SpringCloud Demo
-本demo是公司进行技术栈演示，里面没有业务代码，知识框架
+本demo是公司进行技术栈演示，里面没有业务代码，只是框架
 技术栈：springCloud: 
 服务发现——Netflix Eureka
 客服端负载均衡——Netflix Ribbon
