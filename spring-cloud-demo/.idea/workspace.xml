@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a92862a4-6fc4-447b-9ab7-3faf50cbb183" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\apache-maven-3.6.3-bin\repository" />
+        <option name="mavenHome" value="C:/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.6.3-bin\setting.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZWdO7j4rOFzXGpNwKeh0kZDiWv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="G:/Demo/java/xk11961677-skycloud-base-master/skycloud-base" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\01naolubrain\02job_code\demo\spring-cloud-demo\gateway-demo\src\main\java\com\naolu" />
+      <recent name="G:\01naolubrain\02job_code\demo\spring-cloud-demo\service-demo\service-demo-clientB-temp\src\main\resources" />
+      <recent name="G:\01naolubrain\02job_code\demo\spring-cloud-demo\service-demo\service-demo-clientB-temp\src\main\java\com\naolu" />
+      <recent name="G:\01naolubrain\02job_code\demo\spring-cloud-demo\service-demo\service-demo-clientB\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.server1">
+    <configuration name="ClientAApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-demo-clientA" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.naolu.ClientAApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientBApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-demo-clientB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naolu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.naolu.ClientBApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientBTempApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-demo-clientB-temp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naolu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.naolu.ClientBTempApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naolu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.naolu.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gateway-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naolu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.naolu.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hystrix-dashboard-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naolu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.naolu.HystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.naolu.EurekaApplication" />
+      <option name="PROGRAM_PARAMETERS" value="——spring.profiles.active=server1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.naolu.EurekaApplication" />
+      <option name="PROGRAM_PARAMETERS" value="——spring.profiles.active=server2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.server1" />
+      <item itemvalue="Spring Boot.server2" />
+      <item itemvalue="Spring Boot.ClientAApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.ClientBApplication" />
+      <item itemvalue="Spring Boot.ClientBTempApplication" />
+      <item itemvalue="Spring Boot.HystrixApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HystrixApplication" />
+        <item itemvalue="Spring Boot.ClientBApplication" />
+        <item itemvalue="Spring Boot.ClientBTempApplication" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+        <item itemvalue="Spring Boot.EurekaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a92862a4-6fc4-447b-9ab7-3faf50cbb183" name="Default Changelist" comment="" />
+      <created>1584958748069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584958748069</updated>
+      <workItem from="1584958750769" duration="3966000" />
+      <workItem from="1585014751760" duration="28430000" />
+      <workItem from="1585099099319" duration="22106000" />
+      <workItem from="1585185061020" duration="3670000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1506" y="592" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585033250454">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state x="-1506" y="592" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585033250454" />
+    <state x="-1227" y="740" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585020755268">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state x="-1227" y="740" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585020755268" />
+    <state x="-1155" y="647" key="#com.intellij.ide.util.MemberChooser" timestamp="1585045807520">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state x="-1155" y="647" key="#com.intellij.ide.util.MemberChooser/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585045807520" />
+    <state x="-1231" y="720" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585032272106">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state x="-1231" y="720" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585032272106" />
+    <state width="400" height="466" key="DebuggerActiveHint" timestamp="1585122483551">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state width="400" height="466" key="DebuggerActiveHint/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585122483551" />
+    <state x="555" y="169" width="343" height="397" key="FileChooserDialogImpl" timestamp="1585188059805">
+      <screen x="0" y="0" width="1440" height="770" />
+    </state>
+    <state x="-1180" y="645" width="440" height="536" key="FileChooserDialogImpl/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585138989568" />
+    <state x="555" y="169" width="343" height="397" key="FileChooserDialogImpl/0.0.1440.770/-1920.417.1920.1040@0.0.1440.770" timestamp="1585188059805" />
+    <state width="1877" height="461" key="GridCell.Tab.0.bottom" timestamp="1585190261268">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="461" key="GridCell.Tab.0.bottom/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585190261268" />
+    <state width="1877" height="461" key="GridCell.Tab.0.center" timestamp="1585190261268">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="461" key="GridCell.Tab.0.center/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585190261268" />
+    <state width="1877" height="461" key="GridCell.Tab.0.left" timestamp="1585190261268">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="461" key="GridCell.Tab.0.left/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585190261268" />
+    <state width="1877" height="461" key="GridCell.Tab.0.right" timestamp="1585190261268">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="461" key="GridCell.Tab.0.right/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585190261268" />
+    <state width="1877" height="670" key="GridCell.Tab.1.bottom" timestamp="1585140840603">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="670" key="GridCell.Tab.1.bottom/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585140840603" />
+    <state width="1877" height="670" key="GridCell.Tab.1.center" timestamp="1585140840603">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="670" key="GridCell.Tab.1.center/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585140840603" />
+    <state width="1877" height="670" key="GridCell.Tab.1.left" timestamp="1585140840602">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="670" key="GridCell.Tab.1.left/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585140840602" />
+    <state width="1877" height="670" key="GridCell.Tab.1.right" timestamp="1585140840603">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="670" key="GridCell.Tab.1.right/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585140840603" />
+    <state width="1877" height="461" key="GridCell.Tab.2.bottom" timestamp="1585140840599">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="461" key="GridCell.Tab.2.bottom/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585140840599" />
+    <state width="1877" height="461" key="GridCell.Tab.2.center" timestamp="1585140840599">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="461" key="GridCell.Tab.2.center/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585140840599" />
+    <state width="1877" height="461" key="GridCell.Tab.2.left" timestamp="1585140840598">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="461" key="GridCell.Tab.2.left/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585140840598" />
+    <state width="1877" height="461" key="GridCell.Tab.2.right" timestamp="1585140840599">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="461" key="GridCell.Tab.2.right/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585140840599" />
+    <state x="-1430" y="592" key="Maven.ArtifactSearchDialog" timestamp="1585121261299">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state x="-1430" y="592" key="Maven.ArtifactSearchDialog/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585121261299" />
+    <state x="346" y="57" key="SettingsEditor" timestamp="1585188134585">
+      <screen x="0" y="0" width="1440" height="770" />
+    </state>
+    <state x="-1459" y="579" key="SettingsEditor/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585103474540" />
+    <state x="346" y="57" key="SettingsEditor/0.0.1440.770/-1920.417.1920.1040@0.0.1440.770" timestamp="1585188134585" />
+    <state x="-1196" y="640" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585031093575">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state x="-1196" y="640" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585031093575" />
+    <state x="0" y="0" width="1452" height="714" key="dock-window-1" timestamp="1585103750664">
+      <screen x="0" y="0" width="1440" height="770" />
+    </state>
+    <state x="0" y="0" width="1452" height="714" key="dock-window-1/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585103750664" />
+    <state x="-1586" y="632" key="new project wizard" timestamp="1585103200105">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state x="-1586" y="632" key="new project wizard/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585103200105" />
+    <state x="-1297" y="642" width="672" height="678" key="search.everywhere.popup" timestamp="1585128893476">
+      <screen x="-1920" y="417" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="642" width="672" height="678" key="search.everywhere.popup/0.0.1440.770/-1920.417.1920.1040@-1920.417.1920.1040" timestamp="1585128893476" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_cloud_demo$ClientAApplication.ic" NAME="ClientAApplication Coverage Results" MODIFIED="1585039077755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/spring_cloud_demo$ClientBApplication.ic" NAME="ClientBApplication Coverage Results" MODIFIED="1585127856277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.naolu.*</FILTER>
+    </SUITE>
+  </component>
+</project>

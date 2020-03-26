@@ -1,0 +1,10 @@
+server:
+  port: 9002
+eureka:
+  instance:
+    hostname: server2
+  client:
+    register-with-eureka: false  #表示是否注册自身到eureka服务器
+    fetch-registry: false #是否从eureka上获取注册信息
+    service-url:
+      defaultZone: http://server1:9001/eureka/

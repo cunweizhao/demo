@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: clientB
+eureka:
+  client:
+    service-url:
+      defaultZone: http://server1:9001/eureka/,http://server2:9002/eureka
+server:
+  port: 7002
+  #servlet:
+    #context-path: /clientB

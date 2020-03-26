@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: clientA
+eureka:
+  client:
+    service-url:
+      defaultZone: http://server1:9001/eureka/,http://server2:9002/eureka
+server:
+  port: 7001
+
+
+
+
+# feign 相关的配置
+feign:
+  hystrix:
+    enabled: true   # Hystrix 默认是关闭的
+  client:
+    config:
+      default:  # 全局的
+        connectTimeout: 2000  # 默认的连接超时时间是 10s
+        readTimeout: 5000
+      eureka-client-coupon-template:  # 单独服务的配置
+        connectTimeout: 3000  # 默认的连接超时时间是 10s
+        readTimeout: 5000
+CLIENTB:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RoundRobinRule
