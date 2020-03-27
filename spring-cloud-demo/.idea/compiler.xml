@@ -11,8 +11,8 @@
         <module name="service-demo-clientA" />
         <module name="service-demo-clientB-temp" />
         <module name="service-common-demo" />
-        <module name="gateway-demo" />
         <module name="hystrix-dashboard-demo" />
+        <module name="gateway-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
